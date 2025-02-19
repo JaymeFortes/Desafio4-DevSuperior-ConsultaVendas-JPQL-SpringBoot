@@ -106,7 +106,7 @@ O professor testará a aplicação com as seguintes requisições (coleção Pos
 
 ## Como Rodar o Projeto
 
-1. **Fork o repositório original**: [https://github.com/devsuperior/desafio-consulta-vendas](https://github.com/devsuperior/desafio-consulta-vendas)
+1. **Fork o repositório original**: [https://github.com/JaymeFortes/Desafio4-DevSuperior-ConsultaVendas-JPQL-SpringBoot.git)
 2. **Clone o repositório para sua máquina**:
    ```sh
    git clone https://github.com/seu-usuario/desafio-consulta-vendas.git

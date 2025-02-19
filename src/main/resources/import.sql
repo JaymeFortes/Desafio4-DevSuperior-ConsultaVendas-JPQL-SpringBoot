@@ -236,4 +236,3 @@ INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,83,59,8496.0
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,58,48,5283.0,'2021-07-07');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (4,55,35,20474.0,'2021-07-05');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (5,84,34,5787.0,'2021-07-01');
-INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,79,68,11976.0,'2021-06-27');
